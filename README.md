@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first repository<br>
-Author - Ritesh srivastava
+Author - Ritesh srivastava(leader)
